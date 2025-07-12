@@ -21,7 +21,7 @@ Built using **ESP-IDF** and modern web technologies.
 | Module                     | Description                                                             | Status      |
 |---------------------------|-------------------------------------------------------------------------|-------------|
 | 🌡️ Humidity & Temperature Device | Automate environment control (fan/mist/drip) based on live data       | 🔧 In Progress |
-| 📊 Dashboard Platform      | Web-based dashboard to visualize and control the field system           | 🔧In Planned     |
+| 📊 Dashboard Platform      | Web-based dashboard to visualize and control the field system           | 🔧In Progress     |
 | 🚁 Drone Farm Monitor      | Use drones to capture aerial data for crop health                       | 🔧 Planned     |
 | 🤖 ML Crop Analytics       | AI model to detect diseases and recommend watering & fertilizer actions | 🔧 Planned     |
 | 🌦️ Weather Station         | On-site weather logging (rainfall, pressure, UV) via LoRaWAN            | 🔧 Planned     |
